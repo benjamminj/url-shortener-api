@@ -1,0 +1,11 @@
+---
+application:
+  name: "url-shortener-api"
+  project: "url-shortener"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-url-shortener-api"
+  routes:
+  - application_name: "url-shortener-api"
+    paths:
+    - "/*"
