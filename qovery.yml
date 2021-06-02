@@ -1,0 +1,4 @@
+application:
+  name: url-shortener-api
+  project: url-shortener
+  publicly_accessible: true
